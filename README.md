@@ -20,7 +20,7 @@ It should tell them the interpretation of their BMI based on the BMI value.
 <h2>Program walk-through:</h2>
 
 <p align="center">
-User input: <br/>
-<img src="[https://i.imgur.com/ROgwshx.png](https://i.imgur.com/8wpgWjx.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Based on this: <br/>
+<img src="https://i.imgur.com/8wpgWjx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
